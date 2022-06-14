@@ -1,0 +1,23 @@
+{
+  "name": "stripepayment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sainath1998/stripePayment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sainath1998/stripePayment/issues"
+  },
+  "homepage": "https://github.com/Sainath1998/stripePayment#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
